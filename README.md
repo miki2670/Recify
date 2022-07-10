@@ -1,2 +1,2 @@
-# recify
+# Recify
 Recify app
